@@ -27,7 +27,7 @@ const AboutMe = () => {
                         <h2 className="aboutText">PHP</h2>
                         <h2 className="aboutText">JSON</h2>
                         <h2 className="aboutText">C</h2>
-                        <h2 className="aboutText">Lua</h2>
+                        <h2 className="aboutText">Lua </h2>
                     </div>
                 </div>
                 <div className="aboutBorder">
