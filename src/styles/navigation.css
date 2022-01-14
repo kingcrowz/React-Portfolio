@@ -1,26 +1,26 @@
 .navigationStyles {
-    display: inline-block;
-    padding: 6px;
-    margin: 5px;
-    border: 2px solid #001f3f;
     background-color: #001f3f;
+    border: 2px solid #001f3f;
     border-radius: 10%;
     color: rgb(70, 130, 180);
-    font-weight: 900;
+    display: inline-block;
     font-size: large;
+    font-weight: 900;
+    margin: 5px;
+    padding: 6px;
   }
   .navigationStylesActive {
-    display: inline-block;
-    padding: 6px;
-    margin: 5px;
-    border: 2px solid #001f3f;
     background-color: #001f3f;
+    border: 2px solid #001f3f;
     border-radius: 10%;
     color: rgb(221, 50, 50);
-    font-weight: 900;
+    display: inline-block;
     font-size: large;
+    font-weight: 900;
+    margin: 5px;
+    padding: 6px;
   }
 .linkStyles {
-    text-decoration: none;
     color: rgb(70, 130, 180);
+    text-decoration: none;
   }
