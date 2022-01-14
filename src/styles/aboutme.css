@@ -7,23 +7,23 @@
     width: clamp(100px, 50%, 50%)
 }
 .aboutTitle {
-    text-align: center;
     color: steelblue;
-    padding: 8px
+    padding: 8px;
+    text-align: center
 }
 .aboutBorder {
-    flex: 1;
-    border: 2px solid steelblue
+    border: 2px solid steelblue;
+    flex: 1
 }
 .aboutText {
     color: steelblue;
     margin: 10px
 }
 .aboutTextDiv {
+    align-items: center;
     display: flex;
-    justify-content: center;
     flex-direction: column;
-    align-items: center
+    justify-content: center
 }
 .aboutComponent {
     background-color: #020b13;
