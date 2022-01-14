@@ -1,7 +1,7 @@
 .contactOuterDiv {
-    margin: 5vh 0;
     display: flex;
     flex-direction: column;
+    margin: 5vh 0;
 }
 .contactDiv {
     margin: auto;
@@ -22,17 +22,17 @@
 }
 label {
     display: block;
-    margin-top: 1em;
     margin-bottom: .5em;
+    margin-top: 1em;
 }
 .submitBtn {
-    margin-top: 1em;
     background-color: rgb(70, 130, 180);
     color:white;
     border: none;
+    font-size: 16px;
+    margin-top: 1em;
     padding: 10px 10px;
     text-decoration: none;
-    font-size: 16px;
 }
 .formInput {
     height: 2em;
@@ -43,10 +43,10 @@ textarea {
     width: 50vw;
 }
 @media (min-width: 60em) {
-    .contactOuterDiv {
-        margin: 15vh 0;
+    .contactOuterDiv {  
         display: flex;
         flex-direction: row;
+        margin: 15vh 0;
     }
     .contactOuterDiv > * {
         flex-basis: 70%;
