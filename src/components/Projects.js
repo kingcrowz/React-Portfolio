@@ -34,7 +34,7 @@ const Projects = () => {
                 <h1 className="projectTitle">Grove</h1>
                 <h2 className="projectTitle"><a href="https://github.com/kingcrowz/SustainableReviewsProject" className="linkStyles" target="_blank">Github</a></h2>
                 <a href="http://obscure-ocean-20287.herokuapp.com/" target="_blank">
-                    <img src={GroveIMG} className="projectImage" alt="Grove />
+                    <img src={GroveIMG} className="projectImage" alt="Grove "/>
                 </a>
                 <h3 className="projectText">This application allows for users to create an account and leave reviews for a company but on their sustainability practices.  Similar to a yelp, but not reviewing specific locations, instead the company's practices as a whole in terms of sustainability. This application was a collaboration by Zachary Zaleski, Lisa Shaffer, Rachel Chin, and Jeff Mullen.  </h3>
             </div>
