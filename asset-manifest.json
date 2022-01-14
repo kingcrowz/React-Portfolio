@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.636f5c15.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.0f59b1de.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.0f59b1de.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.a8db5277.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.a8db5277.js.map",
+    "static/js/2.4387bf17.chunk.js": "/React-Portfolio/static/js/2.4387bf17.chunk.js",
+    "static/js/2.4387bf17.chunk.js.map": "/React-Portfolio/static/js/2.4387bf17.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.636f5c15.chunk.css.map": "/React-Portfolio/static/css/main.636f5c15.chunk.css.map",
+    "static/js/2.4387bf17.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.4387bf17.chunk.js.LICENSE.txt",
+    "static/media/Grove.a393dd59.png": "/React-Portfolio/static/media/Grove.a393dd59.png",
+    "static/media/MovieReader.cfa856a7.png": "/React-Portfolio/static/media/MovieReader.cfa856a7.png",
+    "static/media/Recipe-Residence.18e688d2.png": "/React-Portfolio/static/media/Recipe-Residence.18e688d2.png",
+    "static/media/WeatherDashboard.7bd5b187.png": "/React-Portfolio/static/media/WeatherDashboard.7bd5b187.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8db5277.js",
+    "static/js/2.4387bf17.chunk.js",
+    "static/css/main.636f5c15.chunk.css",
+    "static/js/main.0f59b1de.chunk.js"
+  ]
+}
