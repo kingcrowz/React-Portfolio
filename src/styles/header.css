@@ -1,0 +1,9 @@
+header {
+    text-align: center;
+    background-color: rgb(70, 130, 180);
+    height: 100px;
+  }
+  header title {
+    padding-top: 10px;
+    color: #001f3f;
+  }

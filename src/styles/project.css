@@ -1,0 +1,59 @@
+.projectDiv {
+    height: 40%;
+    width: 40%;
+    margin: 4.5%;
+  }
+  
+  .project {
+    display: flex;
+    background-color: #020b13;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap
+  }
+  
+  .projectTitle {
+    color: rgb(65, 120, 165);
+  }
+  
+  .projectText {
+    color: rgb(64, 122, 170);
+  }
+  
+  .projectImage {
+    width: 100%;
+  }
+  
+  .linkStyles {
+    text-decoration: none;
+    color: rgb(65, 123, 170)
+  }
+  
+  @media only screen and (max-width: 800px) {
+    .project {
+      display: flex;
+      background-color: #001f3f;
+      align-items: center;
+      flex-direction: column;
+      flex-wrap: wrap
+    }
+    .projectDiv {
+      height: 30%;
+      width: 77%;
+      margin: 4.5%;
+    }
+  }
+  
+  @media only screen and (min-width: 900px) {
+    .projectImage {
+      width: 100%;
+      color: rgb(60, 119, 168);
+      opacity:0.6;
+      transition: 1s ease;
+    }
+      
+    .projectImage:hover{
+      opacity:1;
+      transition: 1s ease;
+    }
+  }

@@ -1,0 +1,12 @@
+.footerStyles {
+    height: 100px;
+    background-color: #001f3f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imageStyle {
+    padding: 0px 10px;
+    width: 48px;
+    height: 48px;
+}
