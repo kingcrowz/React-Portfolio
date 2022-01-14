@@ -12,7 +12,7 @@ const Projects = () => {
                 <a href="https://desolate-atoll-16678.herokuapp.com/" target="_blank">
                     <img className="projectImage" src={recipeResidenceIMG} alt="Password Generator" />
                 </a>
-                <h3 className="projectText">This application is a digital cookbook for users to record their own recipes, find other users' recipes, and adjust them according to your preferences.  This application was a collaboration by Zachary Zaleski, Lisa Shaffer, Rachel Chin, and Jeff Mullen.</h3>
+                <h3 className="projectText">This application is a digital cookbook for users to record their own recipes, find other user's recipes, and adjust them according to your preferences.  This application was a collaboration by Zachary Zaleski, Lisa Shaffer, Rachel Chin, and Jeff Mullen.</h3>
             </div>
             <div className="projectDiv">
                 <h1 className="projectTitle">Weather Dashboard</h1>
