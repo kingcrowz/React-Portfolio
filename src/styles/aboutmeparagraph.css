@@ -6,18 +6,18 @@
     text-align: center;
 }
 .aboutParaDiv {
-    margin: 0 auto;
-    width: clamp(300px, 50%, 50%);
-    padding-top: 50px;
-    padding-bottom: 20px;
     display: flex;
     justify-content: center;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    width: clamp(300px, 50%, 50%);
 }
 .aboutParaImg {
-    justify-self: center;
-    width: 200px;
     height: 250px;
+    justify-self: center;
     padding-right: 5px;
+    width: 200px;
 }
 .aboutParaImgDiv {
     display: flex;
