@@ -33,16 +33,16 @@ const AboutMe = () => {
                 <div className="aboutBorder">
                     <h1 className="aboutTitle">Tools</h1>
                     <div className="aboutTextDiv">
+                        <h2 className="aboutText">Oracle</h2>
                         <h2 className="aboutText">Github</h2>
-                        <h2 className="aboutText">Git Bash</h2>
                         <h2 className="aboutText">JQuery</h2>
                         <h2 className="aboutText">Heroku</h2>
+                        <h2 className="aboutText">Git Bash</h2>
                         <h2 className="aboutText">VS Code</h2>
                         <h2 className="aboutText">Bootstrap</h2>
                         <h2 className="aboutText">Materialize</h2>
                         <h2 className="aboutText">Amazon Web Services</h2>
                         <h2 className="aboutText">Eclipse</h2>
-                        <h2 className="aboutText">Oracle</h2>
                     </div>
                 </div>
             </div>
